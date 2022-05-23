@@ -3,7 +3,7 @@ Api construída para vaga backend, consiste na criação de uma API para realiza
 
 ### **Iniciar o Projeto**
 
-1. Clonar o repositório - `git clone`
+1. Clonar o repositório - `git clone https://github.com/pauloggdev/ApiViaCEP.git`
 2. Executar index.html no navegador
 
 ## Como contribuir
