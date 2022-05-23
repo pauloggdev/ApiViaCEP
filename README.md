@@ -4,7 +4,9 @@ Api construída para vaga backend, consiste na criação de uma API para realiza
 ### **Iniciar o Projeto**
 
 1. Clonar o repositório - `git clone https://github.com/pauloggdev/ApiViaCEP.git`
-2. Executar index.html no navegador
+2. Executar comando para instalação de dependências - `composer install`
+3. Executar comando para rodar o projeto - `php artisan serve`
+4. Executa a rota - `api/search/local/CEP-1,CEP-2…`
 
 ## Como contribuir
 
